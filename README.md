@@ -10,4 +10,4 @@ This is a simple Python script that checks how strong a password is based on:
 ## 🚀 How to Run
 
 ```bash
-python password_checker.py
+project.py
