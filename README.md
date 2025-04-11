@@ -15,5 +15,5 @@ This is a simple Python script that checks how strong a password is based on:
 - **User interaction**: Accepting input from users via the terminal.
 
 
-
+note: I inserted the project file (project.py)
 
